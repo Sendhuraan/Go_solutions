@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "collection/testSolution/utilities"
+    "collection/test-solution/utilities"
 )
 
 func main() {
